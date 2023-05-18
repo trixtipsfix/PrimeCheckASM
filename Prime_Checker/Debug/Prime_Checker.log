@@ -1,0 +1,3 @@
+﻿  Assembling mian.asm...
+C:\Irvine32-master\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Prime_Checker.vcxproj -> C:\Users\mirza\source\repos\Prime_Checker\Debug\Prime_Checker.exe
